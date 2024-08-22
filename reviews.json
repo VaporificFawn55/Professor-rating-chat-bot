@@ -1,0 +1,112 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Jane Smith",
+      "course": "Introduction to Psychology",
+      "rating": 4.5,
+      "review": "Dr. Smith is an excellent professor who makes complex concepts easy to understand. Her lectures are engaging, and she always provides useful feedback on assignments."
+    },
+    {
+      "professor": "Dr. John Doe",
+      "course": "Calculus I",
+      "rating": 3.8,
+      "review": "Dr. Doe is knowledgeable but his teaching style can be a bit dry. He often covers material quickly, which can be challenging to keep up with."
+    },
+    {
+      "professor": "Dr. Emily White",
+      "course": "Modern European History",
+      "rating": 4.2,
+      "review": "Dr. White brings history to life with her vivid storytelling and deep knowledge of the subject. She is approachable and very supportive of students."
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "course": "Introduction to Programming",
+      "rating": 4.7,
+      "review": "Dr. Brown is fantastic! His programming assignments are challenging but rewarding, and he provides clear explanations and plenty of resources for help."
+    },
+    {
+      "professor": "Dr. Laura Green",
+      "course": "Organic Chemistry",
+      "rating": 3.5,
+      "review": "Dr. Green is a good professor, but the course material is very difficult. She provides a lot of resources, but the subject matter can be overwhelming."
+    },
+    {
+      "professor": "Dr. Alan Black",
+      "course": "Advanced Statistics",
+      "rating": 4.0,
+      "review": "Dr. Black is very knowledgeable in statistics. The lectures are detailed and thorough, though they can be a bit dense. Overall, a solid learning experience."
+    },
+    {
+      "professor": "Dr. Jane Smith",
+      "course": "Introduction to Psychology",
+      "rating": 4.5,
+      "review": "Dr. Smith is an excellent professor who makes complex concepts easy to understand. Her lectures are engaging, and she always provides useful feedback on assignments."
+    },
+    {
+      "professor": "Dr. John Doe",
+      "course": "Calculus I",
+      "rating": 3.8,
+      "review": "Dr. Doe is knowledgeable but his teaching style can be a bit dry. He often covers material quickly, which can be challenging to keep up with."
+    },
+    {
+      "professor": "Dr. Emily White",
+      "course": "Modern European History",
+      "rating": 4.2,
+      "review": "Dr. White brings history to life with her vivid storytelling and deep knowledge of the subject. She is approachable and very supportive of students."
+    },
+    {
+      "professor": "Dr. Michael Brown",
+      "course": "Introduction to Programming",
+      "rating": 4.7,
+      "review": "Dr. Brown is fantastic! His programming assignments are challenging but rewarding, and he provides clear explanations and plenty of resources for help."
+    },
+    {
+      "professor": "Dr. Laura Green",
+      "course": "Organic Chemistry",
+      "rating": 3.5,
+      "review": "Dr. Green is a good professor, but the course material is very difficult. She provides a lot of resources, but the subject matter can be overwhelming."
+    },
+    {
+      "professor": "Dr. Alan Black",
+      "course": "Advanced Statistics",
+      "rating": 4.0,
+      "review": "Dr. Black is very knowledgeable in statistics. The lectures are detailed and thorough, though they can be a bit dense. Overall, a solid learning experience."
+    },
+    {
+      "professor": "Dr. Sarah Lee",
+      "course": "Biology 101",
+      "rating": 4.8,
+      "review": "Dr. Lee's passion for biology is contagious. Her lectures are informative and interactive, and she provides excellent study materials and support."
+    },
+    {
+      "professor": "Dr. Robert Gray",
+      "course": "World Literature",
+      "rating": 4.1,
+      "review": "Dr. Gray offers a deep analysis of classic literature and encourages thoughtful discussion. His enthusiasm makes the class enjoyable, though assignments can be demanding."
+    },
+    {
+      "professor": "Dr. Mia Evans",
+      "course": "Environmental Science",
+      "rating": 4.3,
+      "review": "Dr. Evans is dedicated and knowledgeable. The course is well-organized, and her real-world examples make the subject matter relevant and interesting."
+    },
+    {
+      "professor": "Dr. James Wilson",
+      "course": "Theoretical Physics",
+      "rating": 3.9,
+      "review": "Dr. Wilson is a brilliant physicist, but his teaching methods can be hard to follow. The material is complex and requires a lot of self-study."
+    },
+    {
+      "professor": "Dr. Olivia Martinez",
+      "course": "Marketing Principles",
+      "rating": 4.4,
+      "review": "Dr. Martinez is an engaging lecturer with a lot of practical industry experience. The course includes valuable insights and real-world applications."
+    },
+    {
+      "professor": "Dr. Ethan Thomas",
+      "course": "Introduction to Philosophy",
+      "rating": 4.6,
+      "review": "Dr. Thomas is thought-provoking and encourages critical thinking. His classes are intellectually stimulating, though sometimes they can be a bit abstract."
+    }
+  ]
+}
